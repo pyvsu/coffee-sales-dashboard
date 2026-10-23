@@ -55,24 +55,6 @@ The Excel file has three tables:
 - Timeline and slicers, with custom styles
 - Dashboard layout and report connections
 
-## How to Use
-
-1. Download `coffee-sales-dashboard.xlsx` from this repo.
-2. Open the **Dashboard** sheet.
-3. Click the timeline or slicers to filter the charts. Clear a filter to see all data again.
-4. If you change the data, go to **PivotTable Analyze → Refresh All**.
-
-> Requires Excel 365 or Excel 2021 (for `XLOOKUP`).
-
-## Repository Structure
-
-```
-├── coffee-sales-dashboard.xlsx   # Final workbook
-├── images/
-│   └── dashboard.png             # Dashboard screenshot
-└── README.md
-```
-
 ## Credits
 
 Based on a tutorial by Mo Chen: [The ONLY EXCEL PORTFOLIO PROJECT YOU NEED](https://youtu.be/m13o5aqeCbM?si=T1NLkLE_tGnPVy46). I rebuilt the dashboard step by step and changed the color theme to make it my own.
