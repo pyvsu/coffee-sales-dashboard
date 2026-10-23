@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard (Excel)
+# Coffee Sales Dashboard
 
 An interactive Excel dashboard that shows coffee bean sales by coffee type, country, and customer. One click on a timeline or slicer filters every chart at once.
 
